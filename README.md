@@ -48,6 +48,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱 <br/><br/>
 <p align="center"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
 
