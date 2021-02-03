@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 url 맨뒤에 개별항목을 숨길 수 있다.
