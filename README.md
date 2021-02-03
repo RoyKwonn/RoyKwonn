@@ -51,9 +51,12 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 &nbsp; <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
+<h3 align="center">•••</h3>
 
-
+<p align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokhwan-Kwon&count_bg=%2379C83D&title_bg=%23555555&icon=ipfs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
+
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&fontSize=90)
 
