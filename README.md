@@ -3,7 +3,7 @@
 
 <!--img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a-->
 
-<!-- programing -->
+##### programing
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -11,12 +11,12 @@
 
   &nbsp; 
 
-<!-- WEB -->
+#### WEB
  &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
   &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 <!-- DB -->
 
-<!-- HOSTING -->
+#### HOSTING 
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokhwan-Kwon&count_bg=%2379C83D&title_bg=%23555555&icon=ipfs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
