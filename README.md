@@ -13,7 +13,7 @@
 
 ### 🧑🏻‍💻 I'm currently making ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Customized_Voca&show_owner=true)](https://github.com/Seokhwan-Kwon/Problem-Solving)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Customized_Voca)](https://github.com/Seokhwan-Kwon/Problem-Solving)
 
 ### 🌱 I’m currently learning ... 
 
@@ -22,10 +22,10 @@
 
 ### 🔭 I'm currently working on Core-member in Google-DSC
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Algorithm-Study&show_owner=true)](https://github.com/Seokhwan-Kwon/Problem-Solving)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Algorithm-Study)](https://github.com/Seokhwan-Kwon/Problem-Solving)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=DeepLearning-DSC&show_owner=true)](https://github.com/Seokhwan-Kwon/Problem-Solving)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=DeepLearning-DSC)](https://github.com/Seokhwan-Kwon/Problem-Solving)
 
 
 ### 💬 Ask me about ...
