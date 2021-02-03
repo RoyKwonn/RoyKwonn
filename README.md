@@ -9,7 +9,13 @@
  &nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 
-  &nbsp; 
+#### OS
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+
 
 #### WEB
  &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -22,9 +28,7 @@
 &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 
 #### APP
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
-&nbsp; <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 
 
