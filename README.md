@@ -12,7 +12,8 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
-<p align="center"> Programing Language <br/>
+<h4 align="center"> Programing Language</h4>
+<p align="center">  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -22,6 +23,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 <p align="center"> OS <br/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -37,6 +39,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 
 <p align="center"> DB <br/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
 
