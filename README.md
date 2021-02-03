@@ -3,6 +3,7 @@
 
 <!--img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a-->
 
+<p align="center">
 #### Programing Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -26,7 +27,7 @@
 
 #### DB 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
-
+</p>
 
 
 #### HOSTING 
@@ -48,10 +49,6 @@
 개별항목 숨기기 :  &hide=stars,commits,prs,issues,contribs
 테마 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhwan-Kwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### 🧑🏻‍💻 I'm currently making ...
 
