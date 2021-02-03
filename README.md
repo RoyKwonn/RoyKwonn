@@ -13,14 +13,17 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 
-<p align="center">  Programing Language <br/>
+<h4 align="center"> Programing Language </h4>
+<p align="center">  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-<p align="center"> OS <br/>
+
+<h4 align="center"> OS </h4>
+<p align="center"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -30,41 +33,47 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 &nbsp; <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-<p align="center"> WEB <br/>
+<h4 align="center"> WEB </h4>
+<p align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-
-<p align="center"> DB <br/> 
+<h4 align="center"> DB </h4>
+<p align="center"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
 
-<p align="center"> HOSTING <br/>
+<h4 align="center"> HOSTING </h4>
+<p align="center"> 
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-<p align="center"> APP <br/>
+
+<h4 align="center"> APP </h4>
+<p align="center"> 
 &nbsp; <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
 <h3 align="center">•••</h3>
 
+
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokhwan-Kwon&count_bg=%23295E01&title_bg=%23251E1E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="http://seokhwan-kwon.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://seokhwan-kwon.github.io/"/></a>&nbsp
+<a href="mailto:sychar05@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sychar05@gmail.com"/></a>
 </p>
-
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&fontSize=90)
 
 <!--
 **Seokhwan-Kwon/Seokhwan-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://simpleicons.org/?q=mong
+
 
 Here are some ideas to get you started:
 
