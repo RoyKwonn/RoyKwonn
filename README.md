@@ -42,7 +42,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-<br/>
+
 <!--h4 align="center"> DB </h4-->
 <p align="center"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
