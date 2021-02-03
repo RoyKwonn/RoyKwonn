@@ -12,8 +12,8 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
-<h4 align="center"> Programing Language</h4>
-<p align="center">  
+
+<p align="center">  Programing Language <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
  &nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
