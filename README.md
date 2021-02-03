@@ -3,6 +3,12 @@
 
 <!--img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a-->
 
+h3 align="center"> 👋 Hi there,</h3>
+<p align="center">
+I'm Seokhwan Kwon, a junior full-stack developer. 🌱 
+</p>
+
+<h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center"> Programing Language <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
