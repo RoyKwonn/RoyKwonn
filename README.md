@@ -9,10 +9,11 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 </p>
 
 <br/>
+<br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-
+<br/>
 <h4 align="center"> Programing Language </h4>
 <p align="center">  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -21,7 +22,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
  &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-
+<br/>
 <h4 align="center"> OS </h4>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -33,6 +34,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 &nbsp; <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
+<br/>
 <h4 align="center"> WEB </h4>
 <p align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -40,13 +42,14 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
+<br/>
 <h4 align="center"> DB </h4>
 <p align="center"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-
+<br/>
 <h4 align="center"> HOSTING </h4>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
@@ -54,7 +57,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-
+<br/>
 <h4 align="center"> APP </h4>
 <p align="center"> 
 &nbsp; <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
