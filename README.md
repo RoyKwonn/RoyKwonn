@@ -10,7 +10,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 
 <br/>
 
-<h3 align="center">✨ Tech Stack ✨ </h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 
 
 <h4 align="center"> Programing Language </h4>
