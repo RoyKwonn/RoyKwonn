@@ -7,6 +7,10 @@
 테마 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhwan-Kwon)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 🧑🏻‍💻 I'm currently making ...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Customized_Voca)](https://github.com/Seokhwan-Kwon/Problem-Solving)
