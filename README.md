@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
+url 맨뒤에 개별항목을 숨길 수 있다.
+&hide=stars,commits,prs,issues,contribs
+
+-->
 
 <!--
 **Seokhwan-Kwon/Seokhwan-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
