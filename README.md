@@ -7,13 +7,16 @@
 테마 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
+### 🧑🏻‍💻 I'm currently making ...
 
-### 🔭 I'm currently working on ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Customized_Voca)](https://github.com/Seokhwan-Kwon/Problem-Solving)
+
+### 🌱 I’m currently learning ... 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Problem_Solving)](https://github.com/Seokhwan-Kwon/Problem-Solving)
 
 
-### Google-DSC
+### 🔭 I'm currently working on Core-member in Google-DSC
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Algorithm-Study)](https://github.com/Seokhwan-Kwon/Problem-Solving)
 
