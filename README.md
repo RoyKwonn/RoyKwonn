@@ -8,7 +8,7 @@
 -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Problem_Solving&show_owner=true)](https://github.com/Seokhwan-Kwon/Problem-Solving)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seokhwan-Kwon&repo=Problem_Solving)](https://github.com/Seokhwan-Kwon/Problem-Solving)
  
 
 <!--
