@@ -11,34 +11,37 @@
  &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
-#### OS
+<p align="center"> OS <br/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+</p>
 
-
-#### WEB
+<p align="center"> WEB <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+</p>
 
 
-#### DB 
+<p align="center"> DB <br/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+</p>
 
 
-
-#### HOSTING 
+<p align="center"> HOSTING <br/>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+</p>
 
-#### APP
+<p align="center"> APP <br/>
 &nbsp; <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+</p>
 
 
 
