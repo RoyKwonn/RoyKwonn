@@ -61,8 +61,9 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 &nbsp; <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
+<br/><br/>
 <h3 align="center">•••</h3>
-
+<br/><br/>
 
 <p align="center">
 <a href="http://seokhwan-kwon.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://seokhwan-kwon.github.io/"/></a>&nbsp
