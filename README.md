@@ -73,6 +73,13 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱 <br/><br/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
+<!--h4 align="center"> Deeplearning </h4-->
+<p align="center"> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+</p>
+
+
 <br/>
 <h3 align="center">•••</h3>
 <br/><br/>
