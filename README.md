@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
-url 맨뒤에 개별항목을 숨길 수 있다.
-&hide=stars,commits,prs,issues,contribs
-
+개별항목 숨기기 :  &hide=stars,commits,prs,issues,contribs
+테마 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
 <!--
