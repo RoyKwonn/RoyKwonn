@@ -1,28 +1,5 @@
-<!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Seokhwan%20Kwon&fontSize=90)
--->
 
-<svg width="854" height="300" viewBox="0 0 854 300" xmlns="http://www.w3.org/2000/svg">
-        <style>
-            .text {
-						font-size: 90px;
-						font-weight: 700;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}
-            
-        </style>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 300">
-            <defs>
-					<linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-						<stop offset="0%" stop-color="#13547a"/><stop offset="100%" stop-color="#80d0c7"/>
-					</linearGradient>
-				</defs>
-				
-            <path fill="url(#linear)" fill-opacity="1" d="m 0 0 l 854 300 l 0 -300 l -854 0 z"></path>
-        </svg>
-		
-		<text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#f7f5f5;">Seokhwan Kwon</text>
-  </svg>
 
 <!--img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a-->
 
