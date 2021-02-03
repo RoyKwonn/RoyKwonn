@@ -33,6 +33,7 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱 <br/><br/>
 &nbsp; <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 &nbsp; <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
+&nbsp; <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=GNOME&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
 </p>
 
 
