@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Seokhwan%20Kwon&fontSize=90)
 
-<center><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a></center>
+<div style="text-align:center">
+  
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+ 
+ </div>
 
 
 
