@@ -66,8 +66,9 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱 <br/><br/>
 </p>
 
 <!--h4 align="center"> Network </h4-->
+<p align="center"> 
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white&link=https://github.com/Seokhwan-Kwon"/></a>
-
+</p>
 
 <br/>
 <h3 align="center">•••</h3>
