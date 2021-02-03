@@ -70,6 +70,10 @@ I'm Seokhwan Kwon, a junior full-stack developer. 🌱
 <a href="mailto:sychar05@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sychar05@gmail.com"/></a>
 </p>
 
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&fontSize=90)
+
+
 <!--
 **Seokhwan-Kwon/Seokhwan-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
