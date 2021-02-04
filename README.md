@@ -86,7 +86,7 @@ I'm a man of my word. ✨
 <h3 align="center">•••</h3>
 <br/><br/>
 
-<h3 align="center">💬 Contact address 💬</h3>
+<h3 align="center">Contact information</h3>
 <p align="center">
 <a href="http://seokhwan-kwon.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://seokhwan-kwon.github.io/"/></a>&nbsp
 <a href="mailto:sychar05@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sychar05@gmail.com"/></a>
