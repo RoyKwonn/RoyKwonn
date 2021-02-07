@@ -16,8 +16,6 @@ I'm a man of my word. ✨
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
  </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan-Kwon&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br/>
 <br/>
